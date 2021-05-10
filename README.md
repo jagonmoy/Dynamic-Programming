@@ -8,9 +8,9 @@ Topics
 -  <h3> <a href = #mcm> Matrix Chain Multiplication </a> <h3>
 <br><br>
  - ## <h3 id = "ks"> 0/1 Knapsack </h3>
-   - #### [0/1 Knapsack](Concepts\0-1%20Knapsack%20and%20variations\0-1%20Knapsack)
-   - #### [Subset Sum](Concepts\0-1%20Knapsack%20and%20variations\Subset%20Sum)
-   - #### [Equal Sum](Concepts\0-1%20Knapsack%20and%20variations\Equal%20Sum)
+   - #### [0/1 Knapsack](tree/master/Concepts\0-1%20Knapsack%20and%20variations\0-1%20Knapsack)
+   - #### [Subset Sum](tree/master/Concepts\0-1%20Knapsack%20and%20variations\Subset%20Sum)
+   - #### [Equal Sum](tree/master/Concepts\0-1%20Knapsack%20and%20variations\Equal%20Sum)
    - #### [Count of Subset Sum with a Given Sum](Concepts\0-1%20Knapsack%20and%20variations\Count%20of%20Subset%20Sum%20with%20a%20Given%20Sum)
    - #### [Minimum Subset Sum Difference](Concepts\0-1%20Knapsack%20and%20variations\Minimum%20Subset%20Sum%20Difference)
    - #### [Count the number of subset with a given difference](Concepts\0-1%20Knapsack%20and%20variations\Count%20the%20number%20of%20subset%20with%20a%20given%20difference)
