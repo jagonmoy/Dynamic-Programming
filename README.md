@@ -22,7 +22,7 @@ Topics
 <br><br>
  - ## <h3 id = "uks"> Unbounded Knapsack </h3>
    - #### [Rod Cutting Problem](Concepts/Unbounded%20Knapsack/Rod%20Cutting%20Problem)
-   - #### [Coin Change Maximum Number Of Ways](Concepts/Unbounded%20Knapsack/Coin%20Change%20Maximum%20Number%20Of%20Ways)
+   - #### [Coin Change Maximum Number Of Ways](Concepts/Unbounded%20Knapsack/Coin%20Change%20Maximum%20Number%20of%20Ways)
    - #### [Coin Change Minimum Number of Coins](Concepts/Unbounded%20Knapsack/Coin%20Change%20Minimum%20Number%20of%20Coins)
    - #### [Each Coin can be used up to K times Maximum Ways to make a Value](Concepts/Unbounded%20Knapsack/Each%20Coin%20can%20be%20used%20up%20to%20K%20times%20Maximum%20Ways%20to%20make%20a%20Value)
    
