@@ -42,12 +42,12 @@ Topics
 
    <br><br>
  - ## <h3 id = "mcm"> Matrix Chain Multiplication </h3>
-   - #### [General MCM format and Identification](Concepts\Matrix%20Chain%20Multiplication%20and%20Variations/General%20MCM%20format%20and%20Identification)
-   - #### [Matrix Chain Multiplication](Concepts\Matrix%20Chain%20Multiplication%20and%20Variations/Matrix%20Chain%20Multiplication)
-   - #### [Palindrome Partioning](Concepts\Matrix%20Chain%20Multiplication%20and%20Variations/Palindrome%20Partioning)
-   - #### [Boolean Parenthesization](Concepts\Matrix%20Chain%20Multiplication%20and%20Variations/Boolean%20Parenthesization)
-   - #### [Scrambled String](Concepts\Matrix%20Chain%20Multiplication%20and%20Variations/Scrambled%20String)
-   - #### [Egg Dropping Problem](Concepts\Matrix%20Chain%20Multiplication%20and%20Variations/Egg%20Dropping%20Problem)
+   - #### [General MCM format and Identification](Concepts/Matrix%20Chain%20Multiplication%20and%20Variations/General%20MCM%20format%20and%20Identification)
+   - #### [Matrix Chain Multiplication](Concepts/Matrix%20Chain%20Multiplication%20and%20Variations/Matrix%20Chain%20Multiplication)
+   - #### [Palindrome Partioning](Concepts/Matrix%20Chain%20Multiplication%20and%20Variations/Palindrome%20Partioning)
+   - #### [Boolean Parenthesization](Concepts/Matrix%20Chain%20Multiplication%20and%20Variations/Boolean%20Parenthesization)
+   - #### [Scrambled String](Concepts/Matrix%20Chain%20Multiplication%20and%20Variations/Scrambled%20String)
+   - #### [Egg Dropping Problem](Concepts/Matrix%20Chain%20Multiplication%20and%20Variations/Egg%20Dropping%20Problem)
   
    
 
