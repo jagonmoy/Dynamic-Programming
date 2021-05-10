@@ -16,7 +16,7 @@ Topics
    - #### [Count the number of subset with a given difference](Concepts/0-1%20Knapsack%20and%20variations/Count%20the%20number%20of%20subset%20with%20a%20given%20difference)
    - #### [Target Sum](Concepts/0-1%20Knapsack%20and%20variations/Target%20Sum)
    - #### [Subset Sum Using Exactly K numbers from N numbers](Concepts/0-1%20Knapsack%20and%20variations/Subset%20Sum%20Using%20Exactly%20K%20numbers%20from%20N%20numbers)
-   - #### [From an array of N elements How many Subset Sum using P elements will be Divided by M](Concepts/0-1%20Knapsack%20and%20variations/From%20an%20array%20of%20N%20elements%20How%20many%20Subset%20Sum%20using%20P%20elements%20will%20be%20Divided%20by%20M)
+   - #### [From an array of N elements How many Subset Sum using P elements will be Divided by M](Concepts/0-1%20Knapsack%20and%20variations/From%20an%20array%20of%20N%20elements%20How%20many%20subset%20sum%20using%20P%20elements%20will%20be%20divided%20by%20M)
 
 
 <br><br>
