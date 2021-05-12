@@ -6,7 +6,7 @@ Topics
 -  <h3> <a href = #uks> Unbounded Knapsack </a> <h3>  
 -  <h3> <a href = #lcs> Longest Common Subsequence </a> <h3>  
 -  <h3> <a href = #mcm> Matrix Chain Multiplication </a> <h3>
-
+-  <h3> <a href = #lis> Longest Increasing Subsequence and Kadane's Algorithm</a> <h3>
 <br><br>
  - ## <h3 id = "ks"> 0/1 Knapsack </h3>
    - #### [0/1 Knapsack](Concepts/0-1%20Knapsack%20and%20variations/0-1%20Knapsack)
@@ -50,7 +50,14 @@ Topics
    - #### [Scrambled String](Concepts/Matrix%20Chain%20Multiplication%20and%20Variations/Scrambled%20String)
    - #### [Egg Dropping Problem](Concepts/Matrix%20Chain%20Multiplication%20and%20Variations/Egg%20Dropping%20Problem)
   
-   
+<br><br>
+ - ## <h3 id = "lis"> Longest Increasing Subsequence and Kadane's Algorithm </h3>
+   - #### [Longest Increasing Subsequence](Concepts/Longest%20Increasing%20Subsequence%20and%20Kadane%20Algorithm/Longest%20Increasing%20Subsequence)
+   - #### [Longest Increasing Even or Odd Subsequence](Concepts/Longest%20Increasing%20Subsequence%20and%20Kadane%20Algorithm/Longest%20Increasing%20Even%20or%20Odd%20Subsequence)
+   - #### [Longest Increasing Alternating Subsequence](Concepts/Longest%20Increasing%20Subsequence%20and%20Kadane%20Algorithm/Longest%20Increasing%20Alternating%20Subsequence)
+   - #### [Box Stacking Problem](Concepts/Longest%20Increasing%20Subsequence%20and%20Kadane%20Algorithm/Box%20Stacking%20Problem)
+   - #### [Kadane Algorithm](Concepts/Longest%20Increasing%20Subsequence%20and%20Kadane%20Algorithm/Kadane%20Algorithm)
+   - #### [Kadane Algorithm Range](Concepts/Longest%20Increasing%20Subsequence%20and%20Kadane%20Algorithm/Kadane%20Algorithm%20Range)
 
    
 
