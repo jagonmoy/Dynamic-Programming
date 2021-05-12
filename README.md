@@ -5,6 +5,7 @@ Topics
 -  <h3> <a href = #ks> 0/1 Knapsack </a> <h3>  
 -  <h3> <a href = #uks> Unbounded Knapsack </a> <h3>  
 -  <h3> <a href = #lcs> Longest Common Subsequence </a> <h3>  
+-  <h3> <a href = #ed> Edit Distance </a> <h3>  
 -  <h3> <a href = #mcm> Matrix Chain Multiplication </a> <h3>
 -  <h3> <a href = #lis> Longest Increasing Subsequence and Kadane's Algorithm</a> <h3>
 <br><br>
@@ -40,6 +41,10 @@ Topics
    - #### [Longest Repeating Subsequence](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Longest%20Repeating%20Subsequence)
    - #### [Sequence Pattern Matching](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Sequence%20Pattern%20Matching)
 
+   <br><br>
+ - ## <h3 id = "ed"> Edit Distance </h3>
+   - #### [Introduction to Edit Distance](Concepts/Edit%20distance/Introduction%20to%20Edit%20Distance)
+   - #### [Minimum Edit Distance](Concepts/Edit%20distance/Minimum%20Edit%20Distance)
 
    <br><br>
  - ## <h3 id = "mcm"> Matrix Chain Multiplication </h3>
