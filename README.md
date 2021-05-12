@@ -2,14 +2,22 @@
 
 Topics
 
+-  <h3> <a href = '#intro'> Dynamic Programming Introduction </a> <h3>
 -  <h3> <a href = #ks> 0/1 Knapsack </a> <h3>  
 -  <h3> <a href = #uks> Unbounded Knapsack </a> <h3>  
 -  <h3> <a href = #lcs> Longest Common Subsequence </a> <h3>  
 -  <h3> <a href = #ed> Edit Distance </a> <h3>  
 -  <h3> <a href = #mcm> Matrix Chain Multiplication </a> <h3>
 -  <h3> <a href = #lis> Longest Increasing Subsequence and Kadane's Algorithm</a> <h3>
+
+<br><br>
+ - ## <h3 id = "intro"> Dynamic Programming Introduction </h3>
+   - #### [What is Dynamic Programming?](Concepts/Dynamic%20Programming%20Introduction)
+
+
 <br><br>
  - ## <h3 id = "ks"> 0/1 Knapsack </h3>
+   - #### [Types of Knapsack](Concepts/0-1%20Knapsack%20and%20variations/Types%20of%20Knapsack)
    - #### [0/1 Knapsack](Concepts/0-1%20Knapsack%20and%20variations/0-1%20Knapsack)
    - #### [Subset Sum](Concepts/0-1%20Knapsack%20and%20variations/Subset%20Sum)
    - #### [Equal Sum](Concepts/0-1%20Knapsack%20and%20variations/Equal%20Sum)
@@ -31,6 +39,7 @@ Topics
 
 <br><br>
  - ## <h3 id = "lcs"> Longest Common Subsequence </h3>
+   - #### [Longest Common Subsequence Introduction](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Longest%20Common%20Subsequence%20Introduction)
    - #### [Longest Common Subsequence](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Longest%20Common%20Subsequence)
    - #### [Longest Common Substring](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Longest%20Common%20Substring)
    - #### [Shortest Common Supersequence](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Shortest%20Common%20Supersequence)
