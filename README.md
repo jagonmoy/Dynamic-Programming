@@ -43,8 +43,8 @@ Topics
 
    <br><br>
  - ## <h3 id = "ed"> Edit Distance </h3>
-   - #### [Introduction to Edit Distance](Concepts/Edit%20distance/Introduction%20to%20Edit%20Distance)
-   - #### [Minimum Edit Distance](Concepts/Edit%20distance/Minimum%20Edit%20Distance)
+   - #### [Introduction to Edit Distance](Concepts/Edit%20Distance/Introduction%20to%20Edit%20Distance)
+   - #### [Minimum Edit Distance](Concepts/Edit%20Distance/Minimum%20Edit%20Distance)
 
    <br><br>
  - ## <h3 id = "mcm"> Matrix Chain Multiplication </h3>
