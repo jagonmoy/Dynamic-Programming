@@ -46,6 +46,7 @@ Topics
    - #### [Lexicographically Smaller LCS](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Lexicographically%20Smaller%20LCS)
    - #### [Longest Common Substring](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Longest%20Common%20Substring)
    - #### [Shortest Common Supersequence](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Shortest%20Common%20Supersequence)
+   - #### [Count the Number of Shortest Common Supersequence](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Count%20the%20Number%20of%20Shortest%20Common%20Supersequence)
    - #### [Minimum Number of Insertion and Deletion to Convert String X to String Y](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Minimum%20Number%20of%20Insertion%20and%20Deletion%20to%20Convert%20String%20X%20to%20String%20Y)
    - #### [Longest Palindromic Subsequence](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Longest%20Palindromic%20Subsequence)
    - #### [Minimum Number of Deletion in a String to make it Palindrome](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Minimum%20Number%20of%20Deletion%20in%20a%20String%20to%20make%20it%20Palindrome)
