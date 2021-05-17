@@ -43,6 +43,7 @@ Topics
  - ## <h3 id = "lcs"> Longest Common Subsequence </h3>
    - #### [Longest Common Subsequence Introduction](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Longest%20Common%20Subsequence%20Introduction)
    - #### [Longest Common Subsequence](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Longest%20Common%20Subsequence)
+   - #### [Lexicographically Smaller LCS](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Lexicographically%20Smaller%20LCS)
    - #### [Longest Common Substring](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Longest%20Common%20Substring)
    - #### [Shortest Common Supersequence](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Shortest%20Common%20Supersequence)
    - #### [Minimum Number of Insertion and Deletion to Convert String X to String Y](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Minimum%20Number%20of%20Insertion%20and%20Deletion%20to%20Convert%20String%20X%20to%20String%20Y)
