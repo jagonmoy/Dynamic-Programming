@@ -53,7 +53,7 @@ Topics
    - #### [Minimum Number of Insertion to make a string Palindrome](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Minimum%20Number%20of%20Insertion%20to%20make%20a%20string%20Palindrome)
    - #### [Longest Repeating Subsequence](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Longest%20Repeating%20Subsequence)
    - #### [Sequence Pattern Matching](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Sequence%20Pattern%20Matching)
-   - #### [Find Maximum K x LCS(C,D) - L(C) - L(D).C,D are Substrings of A,B.](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Find%20Maximum%20K%20x%20LCS(C,D)%20-%20L(C)%20-%20L(D).C,D%20are%20Substrings%20of%20A,B.)
+   - #### [Find Maximum K x LCS(C,D) - L(C) - L(D) Where C,D are Substrings of A,B](Concepts/Longest%20Common%20Subsequence%20and%20Variations/Find%20Maximum%20K%20x%20LCS(C,D)%20-%20L(C)%20-%20L(D)%20Where%20C,D%20are%20Substrings%20of%20A,B)
 
    <br><br>
  - ## <h3 id = "ed"> Edit Distance </h3>
